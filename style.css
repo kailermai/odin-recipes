@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    color: #ffc2c2;
+    font-size: 60px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: auto;
+}
+
+ul {
+    font-size: 24px;
+}
