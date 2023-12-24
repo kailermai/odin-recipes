@@ -1,12 +1,15 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #ffffff;
+    background-color: #ffc2c2;
 }
 
 h1 {
     text-align: center;
-    color: #ffc2c2;
+    color: #E8EBF5;
     font-size: 60px;
+    background-color: #EFCC53;
+    border: 8px;
+    border-color: #E8EBF5;
 }
 
 img {
@@ -19,4 +22,9 @@ img {
 
 ul {
     font-size: 24px;
+    background-color: #E8EBF5;
+    border: 18px;
+    border-color: #EFCC53;
+    padding: 16px;
+    padding-left: 30px;
 }
